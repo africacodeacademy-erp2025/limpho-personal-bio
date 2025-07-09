@@ -1,15 +1,25 @@
-# About Me
+---
+About Me
+---
 
-Write a brief bio about yourself here. You can include information about your background, interests, and what motivates you.
+# Hi there, I'm Limpho Polaki
 
-## Early Life
+I'm a developer from Lesotho with a passion for building meaningful web applications. I enjoy working with technologies like:
 
-Describe your early life and any significant experiences.
+- PHP & MySQL
+- HTML, CSS, JavaScript
+- React & TypeScript
 
-## Education
+## Interests
+- Learning new programming concepts
+- Sharing knowledge and helping others
 
-List your educational background and any relevant courses or degrees.
+## What Drives Me
 
-## Professional Experience
+I'm motivated by:
+- Constant learning and self-improvement
 
-Detail your professional experience and any notable achievements.
+## Contact Me
+- Email: limpho.polaki@africacode.academy
+- GitHub: [limphopolaki](https://github.com/crotcash)
+
