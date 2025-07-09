@@ -1,5 +1,6 @@
 ---
-About Me
+title: About Me
+layout: default
 ---
 
 # Hi there, I'm Limpho Polaki
